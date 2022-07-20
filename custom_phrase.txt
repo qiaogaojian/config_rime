@@ -1,0 +1,88 @@
+# Rime table
+# coding: utf-8
+#
+# 請將該文件以UTF-8編碼保存爲
+# Rime用戶文件夾/custom_phrase.txt
+#
+# 碼表各字段以製表符（Tab）分隔
+# 順序爲：文字、編碼、權重（決定重碼的次序、可選）
+#
+# 雖然文本碼表編輯較爲方便，但不適合導入大量條目
+
+中州韵输入法引擎	rime	2
+https://rime.im/	rime	1
+Rime	rime	3
+⌘	cmd
+⌘	command
+⌃	ctl
+⌃	control
+⌥	opt
+⌥	option
+⇧	shift
+
+Android	android
+Apple	apple
+Apple ID	appleid
+Cloudflare cloudflare
+Cloudflare Workers cloudflareworkers
+CSS	css
+Dropbox	dropbox
+GBK	gbk
+GitHub	github
+Google	google
+Google Analytics	ga
+GUN/Linux linux
+HTML	html
+iCloud	icloud
+iMac	imac
+iOS	ios
+iPad	ipad
+iPad	ipad
+iPhone	iphone
+iPhone Xʀ	iphonexr
+iPod	ipod
+IPTV	iptv
+IPv4	ipv
+IPv6	ipv
+iTunes	itunes
+JavaScript js
+jQuery	jquery
+Linux	linux
+Mac	mac
+Mac App Store	mas
+MacBook	macbook
+MacBook Air	mba
+MacBook Pro	mbp
+macOS	macos
+macOS Ventura	macos
+macOS Monterey	macos
+macOS Catalina	macos
+macOS High Sierra	macos
+macOS Mojave	macos
+Magisk	magisk
+Minecraft	minecraft
+MySQL	mysql
+Objective-C	ojbc
+OneDrive	onedrive
+OS X	osx
+Pixel	pixel
+QQ 邮箱	qqyzxl
+Quantumult	quan
+Ruby	ruby
+Rust	rust
+SQL	sql
+Swift	swift
+TypeScript ts
+T 恤	txu
+UTF-8	utfba
+U盘	upj
+WeChat	wechat
+Wi-Fi	wifi
+Windows	win
+Windows	windows
+X-Ray	xray
+Xbox One	xbox
+Youku	youku
+YouTube	youtube
+又双叒叕	yyy
+又双叒叕	yzyz
