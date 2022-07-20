@@ -86,3 +86,9 @@ Youku	youku
 YouTube	youtube
 又双叒叕	yyy
 又双叒叕	yzyz
+git add .	ga
+git commit	gm
+git pull	gp
+git push	gpu
+git branch	gb
+git remote	gr
