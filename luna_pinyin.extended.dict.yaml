@@ -47,5 +47,4 @@ import_tables:
   - dicts/simp-ext
   - dicts/luna_pinyin.basis
   - dicts/luna_pinyin.sougou
-  - dicts/easy_en
 ...
