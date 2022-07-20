@@ -92,3 +92,4 @@ git pull	gp
 git push	gpu
 git branch	gb
 git remote	gr
+google.com	goo
