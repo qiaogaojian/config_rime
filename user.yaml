@@ -1,5 +1,8 @@
 var:
-  last_build_time: 1658292288
-  previously_selected_schema: lufs_pinyin
+  last_build_time: 1658295914
+  option:
+    ascii_punct: true
+  previously_selected_schema: luna_pinyin
   schema_access_time:
     lufs_pinyin: 1658291974
+    luna_pinyin: 1658295585

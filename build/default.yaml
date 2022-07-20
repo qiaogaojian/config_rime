@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561218646
-    default.custom: 1658292283
+    default.custom: 1658295707
     key_bindings: 1561218646
     key_bindings.custom: 0
     punctuation: 1561218646
@@ -106,8 +106,7 @@ recognizer:
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 schema_list:
-  - schema: lufs_flypy
-  - schema: lufs_pinyin
+  - schema: luna_pinyin
 switcher:
   abbreviate_options: true
   caption: "[方案菜单]"
