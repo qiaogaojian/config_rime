@@ -8,7 +8,7 @@ patch:
   switcher/save_options:
     - full_shape
     - ascii_punct
-  menu/page_size: 4 # 候选项数
+  menu/page_size: 5 # 候选项数
   ascii_composer/good_old_caps_lock: false
   ascii_composer/switch_key:
     Shift_L: noop
