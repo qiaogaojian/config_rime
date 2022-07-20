@@ -36,4 +36,13 @@ import_tables:
   - luna_pinyin.computer
   - luna_pinyin.place
   - luna_pinyin.shopping
+  - dicts/animal
+  - dicts/caijing
+  - dicts/food
+  - dicts/idiom
+  - dicts/IT
+  - dicts/medical
+  - dicts/net
+  - dicts/renmingdiming
+  - dicts/simp-ext
 ...
