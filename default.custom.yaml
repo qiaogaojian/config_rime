@@ -5,7 +5,7 @@ patch:
     - schema: luna_pinyin_simp # 明月拼音
   switcher/caption: "[方案菜单]"
   switcher/hotkeys:
-    - F2
+    - F4
   switcher/save_options:
     - full_shape
     - ascii_punct
