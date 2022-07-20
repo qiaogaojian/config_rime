@@ -13,7 +13,6 @@ engine:
   processors:
     - ascii_composer
     - recognizer
-    - lua_processor@select_character_processor # lua 选词扩展，如需关闭请注释
     - key_binder
     - speller
     - punctuator
@@ -28,8 +27,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - lua_translator@date_translator
-    - table_translator@custom_phrase
+    - "table_translator@custom_phrase"
     - reverse_lookup_translator
     - script_translator
 key_binder:
