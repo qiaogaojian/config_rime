@@ -45,4 +45,6 @@ import_tables:
   - dicts/net
   - dicts/renmingdiming
   - dicts/simp-ext
+  - dicts/luna_pinyin.basis
+  - dicts/luna_pinyin.sougou
 ...
