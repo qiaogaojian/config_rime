@@ -18,3 +18,9 @@ bin-release/
 # information for Eclipse / Flash Builder.
 *.bin
 luna_pinyin.userdb
+.DS_Store
+/build/
+/extended.userdb/
+/sync/
+installation.yaml
+user.yaml
