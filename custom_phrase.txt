@@ -96,3 +96,5 @@ google.com	goo
 ankicard	akc
 srcard	sc
 opensea	opensea
+luna	luna
+git	git
