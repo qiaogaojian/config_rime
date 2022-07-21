@@ -94,3 +94,5 @@ git branch	gb
 git remote	gr
 google.com	goo
 ankicard	akc
+srcard	sc
+opensea	opensea
