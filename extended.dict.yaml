@@ -21,6 +21,7 @@ import_tables:
   - dicts/medical # 医学
   - dicts/net # 网络流行语
   - dicts/renmingdiming # 人名地名
+  - dicts/luna_pinyin.english
 
   # 一点点小小的私货，不需要的可以自行关闭呢
   - dicts/genshin # 原神
