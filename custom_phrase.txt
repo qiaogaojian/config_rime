@@ -98,3 +98,5 @@ srcard	sc
 opensea	opensea
 luna	luna
 git	git
+mongo	mongo
+mongodb	mongodb
