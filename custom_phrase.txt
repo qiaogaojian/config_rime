@@ -104,3 +104,6 @@ nft	nft
 def	def
 web	web
 difi	difi
+Jetbrains	jetbrains
+ls	ls
+rm	rm
