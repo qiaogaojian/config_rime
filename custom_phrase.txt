@@ -108,3 +108,6 @@ Jetbrains	jetbrains
 ls	ls
 rm	rm
 space repetition review	srr
+baidu.com	baidu
+jupyter	jupyter
+docker	docker
