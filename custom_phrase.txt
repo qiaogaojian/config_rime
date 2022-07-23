@@ -107,3 +107,4 @@ difi	difi
 Jetbrains	jetbrains
 ls	ls
 rm	rm
+space repetition review	srr
