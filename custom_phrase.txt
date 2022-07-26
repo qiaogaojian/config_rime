@@ -30,7 +30,6 @@ Dropbox	dropbox
 GBK	gbk
 GitHub	github
 Google	google
-Google Analytics	ga
 GUN/Linux linux
 HTML	html
 iCloud	icloud
