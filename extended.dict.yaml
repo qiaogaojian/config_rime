@@ -7,22 +7,39 @@ version: "2020.12.30"
 sort: by_weight
 vocabulary: essay-zh-hans
 use_preset_vocabulary: true
-
+# 双拼词库:下面的是本词库包含的所有词库，请根据需要开启/禁用(前面加#)
+# 雙拼不支持 luna_pinyin.cn_en 詞庫，已禁用。
 import_tables:
-  # 覆盖词频
-  - dicts/simp # 最小拼音词典
-  - dicts/simp-ext # 原字表中除单字外部分
-
-  - dicts/animal # 动物
-  - dicts/caijing # 财经
-  - dicts/food # 饮食
-  - dicts/idiom # 成语俗语
-  - dicts/IT # IT
-  - dicts/medical # 医学
-  - dicts/net # 网络流行语
+  - dicts/simp          # 最小拼音词典
+  - dicts/simp-ext      # 原字表中除单字外部分
+  - dicts/animal        # 动物
+  - dicts/caijing       # 财经
+  - dicts/food          # 饮食
+  - dicts/idiom         # 成语俗语
+  - dicts/IT            # IT
+  - dicts/medical       # 医学
+  - dicts/net           # 网络流行语
   - dicts/renmingdiming # 人名地名
-  # 一点点小小的私货，不需要的可以自行关闭呢
-  - dicts/genshin # 原神
-  - dicts/minecraft # Minecraft 词条
-  - dicts/touhou # 东方 Project
+  - dicts/genshin       # 原神
+  - dicts/minecraft     # Minecraft 词条
+  - dicts/touhou        # 东方 Project
+  
+  - dicts/luna_pinyin
+  - dicts/luna_pinyin.extra_hanzi
+  - dicts/luna_pinyin.sgmain
+  - dicts/luna_pinyin.sgplus
+  - dicts/luna_pinyin.sgplus2
+  - dicts/luna_pinyin.chat
+  - dicts/luna_pinyin.net
+  - dicts/luna_pinyin.user
+  # - dicts/luna_pinyin.cn_en
+  - dicts/luna_pinyin.english
+  - dicts/luna_pinyin.biaoqing
+  - dicts/luna_pinyin.website
+  - dicts/luna_pinyin.poetry
+  - dicts/luna_pinyin.computer
+  - dicts/luna_pinyin.place
+  - dicts/luna_pinyin.shopping
+  - dicts/luna_pinyin.basis
+  - dicts/luna_pinyin.sougou
 ...
