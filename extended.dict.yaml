@@ -24,22 +24,22 @@ import_tables:
   - dicts/minecraft     # Minecraft 词条
   - dicts/touhou        # 东方 Project
   
-  - dicts/luna_pinyin
-  - dicts/luna_pinyin.extra_hanzi
-  - dicts/luna_pinyin.sgmain
-  - dicts/luna_pinyin.sgplus
-  - dicts/luna_pinyin.sgplus2
-  - dicts/luna_pinyin.chat
-  - dicts/luna_pinyin.net
-  - dicts/luna_pinyin.user
-  # - dicts/luna_pinyin.cn_en
-  - dicts/luna_pinyin.english
-  - dicts/luna_pinyin.biaoqing
-  - dicts/luna_pinyin.website
-  - dicts/luna_pinyin.poetry
-  - dicts/luna_pinyin.computer
-  - dicts/luna_pinyin.place
-  - dicts/luna_pinyin.shopping
-  - dicts/luna_pinyin.basis
-  - dicts/luna_pinyin.sougou
+  # - dicts/luna_pinyin
+  # - dicts/luna_pinyin.extra_hanzi
+  # - dicts/luna_pinyin.sgmain
+  # - dicts/luna_pinyin.sgplus
+  # - dicts/luna_pinyin.sgplus2
+  # - dicts/luna_pinyin.chat
+  # - dicts/luna_pinyin.net
+  # - dicts/luna_pinyin.user
+  # # - dicts/luna_pinyin.cn_en
+  # - dicts/luna_pinyin.english
+  # - dicts/luna_pinyin.biaoqing
+  # - dicts/luna_pinyin.website
+  # - dicts/luna_pinyin.poetry
+  # - dicts/luna_pinyin.computer
+  # - dicts/luna_pinyin.place
+  # - dicts/luna_pinyin.shopping
+  # - dicts/luna_pinyin.basis
+  # - dicts/luna_pinyin.sougou
 ...
