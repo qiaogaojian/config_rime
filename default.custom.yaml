@@ -9,15 +9,15 @@ patch:
     - full_shape
     - ascii_punct
   menu/page_size: 5 # 候选项数
-  ascii_composer/good_old_caps_lock: false
-  ascii_composer/switch_key:
-    Shift_L: noop
-    space: commit_code # macOS 上此项无效，Windows 可用右 Shift 切换中英输入
-    Shift_R: commit_code # macOS 上此项无效，Windows 可用右 Shift 切换中英输入
-    Control_L: noop
-    Control_R: noop # macOS 上此项无效，Windows 上可自行定义
-    Caps_Lock: commit_code
-    Eisu_toggle: clear
+  ascii_composer:
+    good_old_caps_lock: true
+    switch_key:
+      Shift_L: commit_code
+      Shift_R: commit_text
+      Control_L: noop
+      Control_R: noop
+      Caps_Lock: clear
+      Eisu_toggle: clear
   key_binder/select_first_character: 'bracketleft' # lua 选词快捷键，选第一个字
   key_binder/select_last_character: 'bracketright' # lua 选词快捷键，选最后一个字
   key_binder/bindings: # 设置哪些键可以翻页，需要哪个取消注释即可
