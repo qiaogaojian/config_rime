@@ -32,22 +32,22 @@ git branch	gb
 git remote	gr
 git status	gs
 
-feat:	feat
-fix:	fix
-perf:	perf
-style:	style
-refactor:	refactor
-log:	log
-docs:	docs
-del:	del
-res:	res
-test:	test
-config:	config
-env:	env
-build:	build
-revert:	revert
-ci:	ci
-chore:	chore
+feat: 	feat
+fix: 	fix
+perf: 	perf
+style: 	style
+refactor: 	refactor
+log: 	log
+docs: 	docs
+del: 	del
+res: 	res
+test: 	test
+config: 	config
+env: 	env
+build: 	build
+revert: 	revert
+ci: 	ci
+chore: 	chore
 
 git commit -m "update custom phrase"	gmu
 
