@@ -68,6 +68,10 @@ web	web
 ls	ls
 rm	rm
 Jetbrains	jetbrains
+param	param
+request	request
+response	response
+swagger	swagger
 
 
 nft	nft
