@@ -53,7 +53,6 @@ ci: 	ci
 chore: 	chore
 
 git commit -m "update custom phrase"	gmu
-git commit -m "space repetition review"	gms
 
 
 docker	docker
