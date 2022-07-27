@@ -9,13 +9,6 @@
 #
 # 雖然文本碼表編輯較爲方便，但不適合導入大量條目
 
-⌘	cmd
-⌘	command
-⌃	ctl
-⌃	control
-⌥	opt
-⌥	option
-⇧	shift
 
 。	句号
 ，	逗号
@@ -24,6 +17,16 @@
 《》	书名号
 （）	括号
 
+⌘	cmd
+⌘	command
+⌃	ctl
+⌃	control
+⌥	opt
+⌥	option
+⇧	shift
+
+
+git	git
 git add .	ga
 git commit -m ""	gm
 git pull	gp
@@ -51,22 +54,28 @@ chore: 	chore
 
 git commit -m "update custom phrase"	gmu
 
-google.com	goo
-ankicard	akc
-srcard	sc
-opensea	opensea
-luna	luna
-git	git
+
+docker	docker
 mongo	mongo
 mongodb	mongodb
-nft	nft
+mysql	mysql
 def	def
 web	web
-difi	difi
-Jetbrains	jetbrains
 ls	ls
 rm	rm
-space repetition review	srr
-baidu.com	baidu
+Jetbrains	jetbrains
+
+
+nft	nft
+difi	difi
+luna	luna
+opensea	opensea
+
+
+srcard	sc
 jupyter	jupyter
-docker	docker
+space repetition review	srr
+
+
+google.com	goo
+baidu.com	baidu
