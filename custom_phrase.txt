@@ -32,9 +32,9 @@ git branch	gb
 git remote	gr
 git status	gs
 
-feat:	f e a t
+feat:	feat
 fix:	fix
-perf:	p e r f
+perf:	perf
 style:	style
 refactor:	refactor
 log:	log
