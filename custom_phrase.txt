@@ -31,9 +31,10 @@ git push	gu
 git branch	gb
 git remote	gr
 git status	gs
-feat:	feat
+
+feat:	f e a t
 fix:	fix
-perf:	perf
+perf:	p e r f
 style:	style
 refactor:	refactor
 log:	log
@@ -47,6 +48,8 @@ build:	build
 revert:	revert
 ci:	ci
 chore:	chore
+
+git commit -m "update custom phrase"	gmu
 
 google.com	goo
 ankicard	akc
