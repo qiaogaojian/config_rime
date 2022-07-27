@@ -86,10 +86,10 @@ speller:
     #- derive/^fu$/hu/ # fu => hu
 
     # 韵母部分
-    - derive/([^iu])([a])n$/$1$2ng/ # an => ang
-    - derive/([^iu])([a])ng$/$1$2n/ # ang => an
-    - derive/([e])n$/$1ng/ # en => eng
-    - derive/([e])ng$/$1n/ # eng => en
+    # - derive/([^iu])([a])n$/$1$2ng/ # an => ang
+    # - derive/([^iu])([a])ng$/$1$2n/ # ang => an
+    # - derive/([e])n$/$1ng/ # en => eng
+    # - derive/([e])ng$/$1n/ # eng => en
     # - derive/([i])n$/$1ng/ # in => ing
     # - derive/([i])ng$/$1n/ # ing => in
     # - derive/([i])an$/$1ang/ # ian => iang
