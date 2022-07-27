@@ -83,3 +83,6 @@ space repetition review	srr
 
 google.com	goo
 baidu.com	baidu
+
+
+qiaogaojian	qgj
