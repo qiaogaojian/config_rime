@@ -12,6 +12,8 @@ schema:
   description: |
     小鹤双拼方案。
     稍微的改了一下（小声
+  dependencies:
+    - english
 
 switches:
   - name: ascii_mode
@@ -45,6 +47,7 @@ engine:
   translators:
     - punct_translator
     - lua_translator@date_translator
+    - table_translator@english
     - table_translator@custom_phrase
     - script_translator
   filters:
@@ -193,3 +196,9 @@ custom_phrase:
   enable_completion: false
   enable_sentence: true
   initial_quality: 1
+
+english:
+  dictionary: english
+  enable_completion: true
+  enable_sentence: false
+  initial_quality: 0
