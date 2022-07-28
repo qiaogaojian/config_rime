@@ -18,21 +18,21 @@ version: "2014.09.07"
 sort: by_weight
 use_preset_vocabulary: true
 #全拼词库:下面的是本词库包含的所有词库，请根据需要开启/禁用(前面加#)
-import_tables:
-  - dicts/simp          # 最小拼音词典
-  - dicts/simp-ext      # 原字表中除单字外部分
-  - dicts/animal        # 动物
-  - dicts/caijing       # 财经
-  - dicts/food          # 饮食
-  - dicts/idiom         # 成语俗语
-  - dicts/IT            # IT
-  - dicts/medical       # 医学
-  - dicts/net           # 网络流行语
-  - dicts/renmingdiming # 人名地名
-  - dicts/genshin       # 原神
-  - dicts/minecraft     # Minecraft 词条
-  - dicts/touhou        # 东方 Project
-  
+import_tables: 
+  - dicts/lufs_flypy.simp          # 最小拼音词典
+  - dicts/lufs_flypy.simp-ext      # 原字表中除单字外部分
+  - dicts/lufs_flypy.animal        # 动物
+  - dicts/lufs_flypy.caijing       # 财经
+  - dicts/lufs_flypy.food          # 饮食
+  - dicts/lufs_flypy.idiom         # 成语俗语
+  - dicts/lufs_flypy.IT            # IT
+  - dicts/lufs_flypy.medical       # 医学
+  - dicts/lufs_flypy.net           # 网络流行语
+  - dicts/lufs_flypy.renmingdiming # 人名地名
+  - dicts/lufs_flypy.genshin       # 原神
+  - dicts/lufs_flypy.minecraft     # Minecraft 词条
+  - dicts/lufs_flypy.touhou        # 东方 Project
+
   - dicts/luna_pinyin
   - dicts/luna_pinyin.extra_hanzi
   - dicts/luna_pinyin.sgmain

@@ -38,6 +38,7 @@ git push	gu
 git branch	gb
 git remote	gr
 git status	gs
+git clone 	gl
 
 feat: 	feat
 fix: 	fix
@@ -72,6 +73,10 @@ param	param
 request	request
 response	response
 swagger	swagger
+module	module
+if	if
+if __name__ == "__main__":	ifname
+github	github
 
 
 nft	nft
