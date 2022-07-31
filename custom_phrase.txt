@@ -76,6 +76,11 @@ if __name__ == "__main__":	ifname
 
 
 # ********************************* develop *********************************
+pip	pip
+npm	npm
+nvm	nvm
+sdk	sdk
+redis	redis
 docker	docker
 mongo	mongo
 mongodb	mongodb
@@ -93,6 +98,8 @@ coroutine	coroutine
 
 
 # ********************************* web3 *********************************
+btc	btc
+eth	eth
 nft	nft
 difi	difi
 luna	luna
