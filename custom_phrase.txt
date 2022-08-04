@@ -111,6 +111,7 @@ srcard	sc
 jupyter	jupyter
 space repetition review	srr
 
+了	l
 
 # ********************************* website *********************************
 google.com	goo
