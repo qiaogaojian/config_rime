@@ -112,6 +112,12 @@ jupyter	jupyter
 space repetition review	srr
 
 了	l
+啊	a
+的	d
+吗	m
+哦	o
+嗯	e
+好	h
 
 # ********************************* website *********************************
 google.com	goo
