@@ -59,8 +59,8 @@ build: 	build
 revert: 	revert
 ci: 	ci
 chore: 	chore
-note:	note
-task:	task
+note: 	note
+task: 	task
 
 git commit -m "update custom phrase"	gmu
 
