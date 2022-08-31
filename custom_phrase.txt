@@ -120,6 +120,7 @@ space repetition review	srr
 哦	o
 嗯	e
 好	h
+是	s
 
 # ********************************* website *********************************
 google.com	goo
