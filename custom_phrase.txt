@@ -110,7 +110,7 @@ opensea	opensea
 
 # ********************************* 常用 *********************************
 srcard	sc
-jupyter	jupyter
+jupyter	ju
 space repetition review	srr
 
 了	l
