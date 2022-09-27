@@ -119,6 +119,28 @@ srcard	sc
 jupyter	ju
 space repetition review	srr
 
+run-js	rjs
+run-ts	rts
+run-cs	rcs
+run-go	rgo
+run-lua	rlu
+run-rust	rru
+run-java	rja
+run-shell	rsh
+run-python	rpy
+run-powershell	rps
+
+pre-js	pjs
+pre-ts	pts
+pre-cs	pcs
+pre-go	pgo
+pre-lua	plu
+pre-rust	pru
+pre-java	pja
+pre-shell	psh
+pre-python	ppy
+pre-powershell	pps
+
 了	l
 啊	a
 的	d
