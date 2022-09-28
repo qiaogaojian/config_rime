@@ -141,6 +141,11 @@ pre-shell	psh
 pre-python	ppy
 pre-powershell	pps
 
+|inline|300	inq
+|inline|500	inw
+|inline|600	ine
+|inline|800	inr
+
 了	l
 啊	a
 的	d
