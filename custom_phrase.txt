@@ -146,6 +146,8 @@ pre-powershell	pps
 |inline|600	ine
 |inline|800	inr
 
+music-abc	mab
+
 了	l
 啊	a
 的	d
