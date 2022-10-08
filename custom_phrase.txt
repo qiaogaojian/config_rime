@@ -42,7 +42,7 @@ git commit -m ""	gm
 git pull	gp
 git push	gu
 git branch	gb
-git remote	gr
+git remote -v	gr
 git status	gs
 git clone 	gl
 git rm -r --cached 	gc
