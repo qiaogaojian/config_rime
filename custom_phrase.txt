@@ -157,6 +157,8 @@ music-abc	mab
 好	h
 是	s
 
+learn test and tools	ltt
+
 # ********************************* website *********************************
 google.com	goo
 baidu.com	baidu
