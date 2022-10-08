@@ -44,8 +44,8 @@ git push	gu
 git branch	gb
 git remote -v	gr
 git status	gs
-git clone 	gl
-git rm -r --cached 	gc
+git clone 	gc
+git rm -r --cached 	gd
 
 feat: 	feat
 fix: 	fix
