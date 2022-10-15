@@ -119,6 +119,7 @@ srcard	sc
 jupyter	ju
 space repetition review	srr
 <mark style="background: #fa518dA6;">错题:</mark>	ct
+<mark style="background: #018bffA6;">公式:</mark> 	gssi
 
 
 run-js	rjs
