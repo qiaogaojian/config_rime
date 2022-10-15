@@ -118,6 +118,8 @@ opensea	opensea
 srcard	sc
 jupyter	ju
 space repetition review	srr
+<mark style="background: #fa518dA6;">错题:</mark>	ct
+
 
 run-js	rjs
 run-ts	rts
