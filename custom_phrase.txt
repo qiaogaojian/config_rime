@@ -120,7 +120,7 @@ jupyter	ju
 space repetition review	srr
 <mark style="background: #fa518dA6;">错题:</mark>	ct
 <mark style="background: #018bffA6;">公式:</mark> 	gssi
-<mark style="background: #018bffA6;">总结:</mark> 	zsjp
+<mark style="background: #83d98fA6;">总结:</mark> 	zsjp
 name -inurl:(htm|html|php|pls|txt) intitle:index.of “last modified” (type1|type2) 	gginu
 
 run-js	rjs
