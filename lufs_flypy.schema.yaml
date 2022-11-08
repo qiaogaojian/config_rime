@@ -25,9 +25,6 @@ switches:
   - name: ascii_punct
     reset: 0
     states: ["，．", "，。"]
-  - name: simplification
-    reset: 0
-    states: ["汉字", "漢字"]
   - name: emoji_suggestion
     reset: 1
     states: ["🈚️️\uFE0E", "🈶️️\uFE0F"]
