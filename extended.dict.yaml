@@ -17,9 +17,9 @@ import_tables:
   - dicts/lufs_flypy.food          # 饮食
   - dicts/lufs_flypy.idiom         # 成语俗语
   - dicts/lufs_flypy.IT            # IT
-  # - dicts/lufs_flypy.medical       # 医学
   - dicts/lufs_flypy.net           # 网络流行语
   - dicts/lufs_flypy.renmingdiming # 人名地名
+  # - dicts/lufs_flypy.medical       # 医学
   # - dicts/lufs_flypy.genshin       # 原神
   # - dicts/lufs_flypy.minecraft     # Minecraft 词条
   # - dicts/lufs_flypy.touhou        # 东方 Project
