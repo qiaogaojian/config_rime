@@ -18,4 +18,4 @@ patch:
     horizontal: true
     inline_preedit: true
     layout: {border: 0, candidate_spacing: 24, hilite_padding: 12, hilite_spacing: 3, margin_x: 12, margin_y: 12, round_corner: 0, spacing: 10}
-  "style/color_scheme": apathy
+  "style/color_scheme": macos_dark
