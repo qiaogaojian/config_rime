@@ -22,10 +22,10 @@ patch:
   key_binder/select_last_character: 'bracketright' # lua 选词快捷键，选最后一个字
   key_binder/bindings: # 设置哪些键可以翻页，需要哪个取消注释即可
     - { accept: "Control+k", send: "Shift+Delete", when: composing }
-    - { accept: Tab, send: Page_Down, when: composing } # Tab 向下翻页
-    - { accept: Shift+Tab, send: Page_Up, when: composing } # Shift + Tab 向上翻页
-    - { accept: semicolon, when: has_menu, send: 2 } # 输入时「;」二选
-    - { accept: apostrophe, when: has_menu, send: 3 } # 输入时「'」三选
+    # - { accept: Tab, send: Page_Down, when: composing } # Tab 向下翻页
+    # - { accept: Shift+Tab, send: Page_Up, when: composing } # Shift + Tab 向上翻页
+    # - { accept: semicolon, when: has_menu, send: 2 } # 输入时「;」二选
+    # - { accept: apostrophe, when: has_menu, send: 3 } # 输入时「'」三选
     - { accept: equal, send: Page_Down, when: composing }
     - { accept: minus, send: Page_Up, when: composing }
 
