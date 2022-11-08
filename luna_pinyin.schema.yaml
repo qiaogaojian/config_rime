@@ -85,8 +85,10 @@ switches:
     reset: 0
     states: ["中文", "英文"]
   - name: full_shape
+    reset: 0
     states: ["半角", "全角"]
   - name: ascii_punct
+    reset: 1
     states: ["，。", "，．"]
   - name: simplification
     reset: 1
