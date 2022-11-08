@@ -30,8 +30,8 @@ patch:
     - { accept: minus, send: Page_Up, when: composing }
 
     # 失效设置，可通过关闭/更改 lua 选词快捷键恢复
-    - { accept: bracketleft, send: Page_Up, when: composing } # 左括号向上翻页
-    - { accept: bracketright, send: Page_Down, when: composing } # 右括号向下翻页
+    # - { accept: bracketleft, send: Page_Up, when: composing } # 左括号向上翻页
+    # - { accept: bracketright, send: Page_Down, when: composing } # 右括号向下翻页
 
     # 其它，有需要可自行开启
     # - { accept: "Control+Shift+1", select: .next, when: always}
