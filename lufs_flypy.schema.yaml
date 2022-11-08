@@ -18,16 +18,19 @@ schema:
 switches:
   - name: ascii_mode
     reset: 0
-    states: [中文, 西文]
+    states: ["中文", "英文"]
   - name: full_shape
     reset: 0
-    states: [半角, 全角]
+    states: ["半角", "全角"]
   - name: ascii_punct
     reset: 0
-    states: [。，, ．，]
+    states: ["，．", "，。"]
   - name: emoji_suggestion
     reset: 1
     states: ["🈚️️\uFE0E", "🈶️️\uFE0F"]
+  - name: simplification
+    reset: 0
+    states: ["汉字", "漢字"]
 
 engine:
   processors:
