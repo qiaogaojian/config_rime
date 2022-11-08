@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3_dev_0.8
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Tue Nov  8 16:16:37 2022"
+  modified_time: "Tue Nov  8 16:17:04 2022"
   rime_version: 1.7.3
 patch:
   preset_color_schemes:
@@ -18,4 +18,4 @@ patch:
     horizontal: true
     inline_preedit: true
     layout: {border: 0, candidate_spacing: 24, hilite_padding: 12, hilite_spacing: 3, margin_x: 12, margin_y: 12, round_corner: 0, spacing: 10}
-  "style/color_scheme": ayaya
+  "style/color_scheme": apathy
