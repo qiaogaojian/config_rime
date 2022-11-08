@@ -25,13 +25,13 @@ switches:
   - name: ascii_punct
     reset: 0
     states: ["，．", "，。"]
-  - name: emoji_suggestion
-    reset: 1
-    states: ["🈚️️\uFE0E", "🈶️️\uFE0F"]
   - name: simplification
     reset: 0
     states: ["汉字", "漢字"]
-
+  - name: emoji_suggestion
+    reset: 1
+    states: ["🈚️️\uFE0E", "🈶️️\uFE0F"]
+  
 engine:
   processors:
     - ascii_composer # Windows 用户请解除此行注释，否则将会无法切换到英文输入
