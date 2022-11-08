@@ -23,8 +23,8 @@ switches:
     reset: 0
     states: ["半角", "全角"]
   - name: ascii_punct
-    reset: 0
-    states: ["，．", "，。"]
+    reset: 1
+    states: ["，。","，．"]
   - name: emoji_suggestion
     reset: 1
     states: ["🈚️️\uFE0E", "🈶️️\uFE0F"]
