@@ -4,7 +4,7 @@ patch:
     - schema: lufs_flypy  # 小鹤双拼
   switcher/caption: "[方案菜单]"
   switcher/hotkeys:
-    - F8
+    - F3
   switcher/save_options:
     - full_shape
     - ascii_punct
