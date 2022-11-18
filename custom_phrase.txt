@@ -131,6 +131,7 @@ run-lua	rlu
 run-rust	rru
 run-java	rja
 run-shell	rsh
+run-kotlin	rkt
 run-python	rpy
 run-powershell	rps
 
