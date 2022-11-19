@@ -43,23 +43,16 @@ function single_char_first_filter(input)
 end
 
 --- 过滤器：\r =\r\n
-function single_char_first_filter(input)
-    local l = {}
-    for cand in input:iter() do
-        yield(cand)                
-    end    
-end
-
-local function xform_th(input)
-    if input == "" then return "" end
-    inputx = 
-    return inputx .. ")" --加右括号 测试
+local function xform_th(inp)
+    if inp == "" then return "" end
+        inpx = string.gsub(inp, "&nbsp", " ")
+        return inpx .. ")" --加右括号 测试
     end
     
 local function filter(input)
     for cand in input:iter() do
-        cand:get_genuine().text = xform_th((cand.text))
-        yield(cand)
+    cand:get_genuine().text = xform_th((cand.text))
+    yield(cand)
     end
     end
     return filter
