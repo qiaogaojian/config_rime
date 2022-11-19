@@ -48,7 +48,7 @@ local function xform_newline(text)
         return "" 
     end
 
-    res = string.gsub(text, "-", "_")
+    res = string.gsub(text, "n", "_")
     return res
 end
 
