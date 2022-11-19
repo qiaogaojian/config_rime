@@ -48,7 +48,7 @@ local function xform_th(text)
         return "" 
     end
 
-    res = string.gsub(inp, "-", " ")
+    res = string.gsub(inp, "-", "_")
     return res
 end
 
