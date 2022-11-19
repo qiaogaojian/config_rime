@@ -43,7 +43,7 @@ function single_char_first_filter(input)
 end
 
 --- 过滤器：\r =\r\n
-local function xform_th(text)
+local function xform_newline(text)
     if text == "" then 
         return "" 
     end
@@ -54,7 +54,7 @@ end
 
 local function newline_filter(input)
     for candidate in input:iter() do
-        candidate:get_genuine().text = xform_th((candidate.text))
+        candidate:get_genuine().text = xform_newline((candidate.text))
         yield(candidate)
     end    
 end    
