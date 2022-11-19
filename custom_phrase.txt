@@ -37,77 +37,6 @@ receive <---:	rec
 	crl
 
 
-# ********************************* git *********************************
-git	git
-git add .	ga
-git commit -m ""	gm
-git pull	gp
-git push	gu
-git branch	gb
-git remote -v	gr
-git status	gs
-git clone 	gc
-git rm -r --cached 	gd
-
-feat: 	feat
-fix: 	fix
-perf: 	perf
-style: 	style
-refactor: 	refactor
-log: 	log
-docs: 	docs
-del: 	del
-res: 	res
-test: 	test
-config: 	config
-env: 	env
-build: 	build
-revert: 	revert
-ci: 	ci
-chore: 	chore
-note: 	note
-task: 	task
-
-git commit -m "update custom phrase"	gmu
-
-
-# ********************************* shell *********************************
-ls	ls
-cd	cd
-rm	rm
-
-
-# ********************************* develop *********************************
-pip	pip
-npm	npm
-nvm	nvm
-sdk	sdk
-redis	redis
-docker	docker
-mongo	mongo
-mongodb	mongodb
-mysql	mysql
-web	web
-Jetbrains	jetbrains
-param	param
-request	request
-response	response
-swagger	swagger
-module	module
-github	github
-coroutine	coroutine
-协程	xie cheng
-
-
-# ********************************* web3 *********************************
-btc	btc
-eth	eth
-nft	nft
-difi	difi
-luna	luna
-opensea	opensea
-
-
 # ********************************* 常用 *********************************
 srcard	sc
 jupyter	ju
@@ -178,3 +107,76 @@ if __name__ == "__main__":	ifname
 
 # ********************************* kotlin *********************************
 fun main(){}	ktm
+
+
+
+# ********************************* git *********************************
+git	git
+git add .	ga
+git commit -m ""	gm
+git pull	gp
+git push	gu
+git branch	gb
+git remote -v	gr
+git status	gs
+git clone 	gc
+git rm -r --cached 	gd
+
+feat: 	feat
+fix: 	fix
+perf: 	perf
+style: 	style
+refactor: 	refactor
+log: 	log
+docs: 	docs
+del: 	del
+res: 	res
+test: 	test
+config: 	config
+env: 	env
+build: 	build
+revert: 	revert
+ci: 	ci
+chore: 	chore
+note: 	note
+task: 	task
+
+git commit -m "update custom phrase"	gmu
+
+
+# ********************************* shell *********************************
+ls	ls
+cd	cd
+rm	rm
+
+
+# ********************************* IT *********************************
+pip	pip
+npm	npm
+nvm	nvm
+sdk	sdk
+redis	redis
+docker	docker
+mongo	mongo
+mongodb	mongodb
+mysql	mysql
+web	web
+Jetbrains	jetbrains
+param	param
+request	request
+response	response
+swagger	swagger
+module	module
+github	github
+coroutine	coroutine
+协程	xie cheng
+
+
+# ********************************* Web3 *********************************
+btc	btc
+eth	eth
+nft	nft
+difi	difi
+luna	luna
+opensea	opensea
+
