@@ -1,14 +1,6 @@
 distribution_code_name: Weasel
 distribution_name: "小狼毫"
 distribution_version: 0.14.3
-install_time: "Wed Jul 20 11:19:04 2022"
-<<<<<<< HEAD
-installation_id: "429fe5fa-4c09-4f4d-9300-c00c5edec549"
+install_time: "Sat Nov 19 21:23:53 2022"
+installation_id: "5e1eabf2-04c9-4cee-b777-f6c891a9683a"
 rime_version: 1.5.3
-update_time: "Sat Nov 19 21:04:43 2022"
-=======
-installation_id: "rime_config"
-rime_version: 1.7.3
-update_time: "Fri Nov 18 17:43:04 2022"
-sync_dir: 'D:\Git\Config\config_rime\sync'
->>>>>>> ab46bfeb9bc07c1defa11df91c77372f945b87e5
