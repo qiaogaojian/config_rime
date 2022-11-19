@@ -34,7 +34,7 @@ response code <---:	resp
 send    --->:	sen
 receive <---:	rec
 
-receive <---:	rec
+	crl
 
 
 # ********************************* git *********************************
