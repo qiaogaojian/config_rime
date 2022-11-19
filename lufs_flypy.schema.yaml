@@ -57,7 +57,7 @@ engine:
     - simplifier
     - uniquifier
     - single_char_filter
-    - lua_filter@newline_filter
+    # - lua_filter@newline_filter
 
 emoji_suggestion:
   opencc_config: emoji.json
