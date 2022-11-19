@@ -49,12 +49,11 @@ local function xform_th(inp)
         return inpx .. ")" --加右括号 测试
     end
     
-local function filter(input)
+local function newline_filter(input)
     for cand in input:iter() do
-    cand:get_genuine().text = xform_th((cand.text))
-    yield(cand)
-    end
-    end
+        cand:get_genuine().text = xform_th((cand.text))
+        yield(cand)
+    end    
     return filter
 
 -- select_character_processor: 以词定字
