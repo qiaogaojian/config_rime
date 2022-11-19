@@ -108,13 +108,38 @@ if __name__ == "__main__":	ifname
 fun main(){}	ktm
 
 
-# ********************************* shell *********************************
+# ********************************* 符号 *********************************
+。	juhc
+，	dzhc
+、	dyhc
+：	mchc
+《》	sumkhc
+（）	kohc
+
+⌘	cmd
+⌘	command
+⌃	ctl
+⌃	control
+⌥	opt
+⌥	option
+⇧	shift
+
+*********************************	fgx
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>	fgr
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<	fgl
+request --->:	requ
+response code <---:	resp
+send    --->:	sen
+receive <---:	rec
+
+
+# ********************************* linux命令 *********************************
 ls	ls
 cd	cd
 rm	rm
 
 
-# ********************************* git *********************************
+# ********************************* git命令 *********************************
 git	git
 git add .	ga
 git commit -m ""	gm
@@ -146,33 +171,3 @@ note: 	note
 task: 	task
 
 git commit -m "update custom phrase"	gmu
-
-
-# ********************************* 符号 *********************************
-。	juhc
-，	dzhc
-、	dyhc
-：	mchc
-《》	sumkhc
-（）	kohc
-
-⌘	cmd
-⌘	command
-⌃	ctl
-⌃	control
-⌥	opt
-⌥	option
-⇧	shift
-
-*********************************	fgx
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>	fgr
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<	fgl
-request --->:	requ
-response code <---:	resp
-send    --->:	sen
-receive <---:	rec
-
-
-
-
-
