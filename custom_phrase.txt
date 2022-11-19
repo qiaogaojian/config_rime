@@ -10,31 +10,6 @@
 # 雖然文本碼表編輯較爲方便，但不適合導入大量條目
 
 
-# ********************************* 符号 *********************************
-。	juhc
-，	dzhc
-、	dyhc
-：	mchc
-《》	sumkhc
-（）	kohc
-
-⌘	cmd
-⌘	command
-⌃	ctl
-⌃	control
-⌥	opt
-⌥	option
-⇧	shift
-
-*********************************	fgx
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>	fgr
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<	fgl
-request --->:	requ
-response code <---:	resp
-send    --->:	sen
-receive <---:	rec
-
-
 # ********************************* 常用 *********************************
 srcard	sc
 jupyter	ju
@@ -85,14 +60,38 @@ music-abc	mab
 
 learn test and tools	ltt
 
-# ********************************* website *********************************
-google.com	goo
-baidu.com	baidu
-
 
 # ********************************* personal *********************************
 qiaogaojian	qgj
 qiaogaojian@vip.qq.com	qgjv
+
+# ********************************* 符号 *********************************
+。	juhc
+，	dzhc
+、	dyhc
+：	mchc
+《》	sumkhc
+（）	kohc
+
+⌘	cmd
+⌘	command
+⌃	ctl
+⌃	control
+⌥	opt
+⌥	option
+⇧	shift
+
+*********************************	fgx
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>	fgr
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<	fgl
+request --->:	requ
+response code <---:	resp
+send    --->:	sen
+receive <---:	rec
+
+# ********************************* website *********************************
+google.com	goo
+baidu.com	baidu
 
 
 # ********************************* IT *********************************
