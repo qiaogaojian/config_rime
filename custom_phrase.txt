@@ -86,6 +86,14 @@ module	module
 github	github
 coroutine	coroutine
 协程	xie cheng
+google.com	goo
+baidu.com	baidu
+btc	btc
+eth	eth
+nft	nft
+difi	difi
+luna	luna
+opensea	opensea
 
 
 # ********************************* 符号 *********************************
@@ -111,19 +119,6 @@ request --->:	requ
 response code <---:	resp
 send    --->:	sen
 receive <---:	rec
-
-# ********************************* website *********************************
-google.com	goo
-baidu.com	baidu
-
-
-# ********************************* Web3 *********************************
-btc	btc
-eth	eth
-nft	nft
-difi	difi
-luna	luna
-opensea	opensea
 
 
 # ********************************* python *********************************
