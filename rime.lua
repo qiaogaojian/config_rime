@@ -51,11 +51,11 @@ local function xform_th(text)
     res = string.gsub(inp, "-", " ")
     return res
 end
-    
+
 local function newline_filter(input)
-    for cand in input:iter() do
-        cand:get_genuine().text = xform_th((cand.text))
-        yield(cand)
+    for candidate in input:iter() do
+        candidate:get_genuine().text = xform_th((candidate.text))
+        yield(candidate)
     end    
 end    
 
