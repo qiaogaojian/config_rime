@@ -34,6 +34,8 @@ response code <---:	resp
 send    --->:	sen
 receive <---:	rec
 
+receive <---:	rec
+
 
 # ********************************* git *********************************
 git	git
