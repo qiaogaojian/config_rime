@@ -10,6 +10,11 @@
 # 雖然文本碼表編輯較爲方便，但不適合導入大量條目
 
 
+# ********************************* personal *********************************
+qiaogaojian	qgj
+qiaogaojian@vip.qq.com	qgjv
+
+
 # ********************************* 常用 *********************************
 srcard	sc
 jupyter	ju
@@ -61,9 +66,27 @@ music-abc	mab
 learn test and tools	ltt
 
 
-# ********************************* personal *********************************
-qiaogaojian	qgj
-qiaogaojian@vip.qq.com	qgjv
+# ********************************* IT *********************************
+pip	pip
+npm	npm
+nvm	nvm
+sdk	sdk
+redis	redis
+docker	docker
+mongo	mongo
+mongodb	mongodb
+mysql	mysql
+web	web
+Jetbrains	jetbrains
+param	param
+request	request
+response	response
+swagger	swagger
+module	module
+github	github
+coroutine	coroutine
+协程	xie cheng
+
 
 # ********************************* 符号 *********************************
 。	juhc
@@ -92,28 +115,6 @@ receive <---:	rec
 # ********************************* website *********************************
 google.com	goo
 baidu.com	baidu
-
-
-# ********************************* IT *********************************
-pip	pip
-npm	npm
-nvm	nvm
-sdk	sdk
-redis	redis
-docker	docker
-mongo	mongo
-mongodb	mongodb
-mysql	mysql
-web	web
-Jetbrains	jetbrains
-param	param
-request	request
-response	response
-swagger	swagger
-module	module
-github	github
-coroutine	coroutine
-协程	xie cheng
 
 
 # ********************************* Web3 *********************************
