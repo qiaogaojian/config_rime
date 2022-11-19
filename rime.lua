@@ -47,8 +47,9 @@ local function xform_th(text)
     if text == "" then 
         return "" 
     end
-    inpx = string.gsub(inp, "-", " ")
-    return inpx
+
+    res = string.gsub(inp, "-", " ")
+    return res
 end
     
 local function newline_filter(input)
