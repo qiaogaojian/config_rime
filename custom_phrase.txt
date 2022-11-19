@@ -77,14 +77,6 @@ cd	cd
 rm	rm
 
 
-# ********************************* code *********************************
-if	if
-def	def
-print("\n\n\n")	prin
-logger.info("\n\n\n")	logn
-if __name__ == "__main__":	ifname
-
-
 # ********************************* develop *********************************
 pip	pip
 npm	npm
@@ -174,6 +166,16 @@ baidu.com	baidu
 # ********************************* personal *********************************
 qiaogaojian	qgj
 qiaogaojian@vip.qq.com	qgjv
+
+
+
+# ********************************* code *********************************
+if	if
+def	def
+print("\n\n\n")	prin
+logger.info("\n\n\n")	logn
+if __name__ == "__main__":	ifname
+
 
 
 # ********************************* kotlin *********************************
