@@ -42,35 +42,8 @@ function single_char_first_filter(input)
     end
 end
 
---- 过滤器：\r =\r\n
-function single_char_first_filter(input)
-    local l = {}
-    for cand in input:iter() do
-        if (utf8.len(cand.text) == 1) then
-            yield(cand)
-        else
-            table.insert(l, cand)
-        end
-    end
-    for i, cand in ipairs(l) do
-        yield(cand)
-    end
-end
-
-local function xform_th(input)
-    if input == "" then return "" end
-    inputx = string.gsub(input, "&nbsp", " ")
-    return inputx .. ")" --加右括号 测试
-    end
-    
-local function filter(input)
-    for cand in input:iter() do
-        cand:get_genuine().text = xform_th((cand.text))
-        yield(cand)
-    end
-    end
-    return filter
 
 -- select_character_processor: 以词定字
 -- 详见 `lua/select_character.lua`
 select_character_processor = require("select_character")
+-- newline_filter = require("newline_fliter")
