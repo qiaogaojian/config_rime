@@ -175,4 +175,4 @@ qiaogaojian@vip.qq.com	qgjv
 
 
 # ********************************* personal *********************************
-fun main(){\n\n}	main
+fun main(){\x0D}	main
