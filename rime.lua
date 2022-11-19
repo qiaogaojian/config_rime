@@ -43,17 +43,20 @@ function single_char_first_filter(input)
 end
 
 --- 过滤器：\r =\r\n
-local function xform_th(inp)
-    if inp == "" then return "" end
-        inpx = string.gsub(inp, "-", " ")
-        return inpx
+local function xform_th(text)
+    if text == "" then 
+        return "" 
     end
+    inpx = string.gsub(inp, "-", " ")
+    return inpx
+end
     
 local function newline_filter(input)
     for cand in input:iter() do
         cand:get_genuine().text = xform_th((cand.text))
         yield(cand)
     end    
+end    
 
 
 -- select_character_processor: 以词定字
