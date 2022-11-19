@@ -45,8 +45,8 @@ end
 --- 过滤器：\r =\r\n
 local function xform_th(inp)
     if inp == "" then return "" end
-        inpx = string.gsub(inp, "&nbsp", " ")
-        return inpx .. ")" --加右括号 测试
+        inpx = string.gsub(inp, "-", " ")
+        return inpx
     end
     
 local function newline_filter(input)
@@ -54,7 +54,7 @@ local function newline_filter(input)
         cand:get_genuine().text = xform_th((cand.text))
         yield(cand)
     end    
-        
+
 
 -- select_character_processor: 以词定字
 -- 详见 `lua/select_character.lua`
