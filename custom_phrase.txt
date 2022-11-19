@@ -24,6 +24,38 @@ qiaogaojian	qgj
 qiaogaojian@vip.qq.com	qgjv
 
 
+
+# ********************************* IT *********************************
+pip	pip
+npm	npm
+nvm	nvm
+sdk	sdk
+redis	redis
+docker	docker
+mongo	mongo
+mongodb	mongodb
+mysql	mysql
+web	web
+Jetbrains	jetbrains
+param	param
+request	request
+response	response
+swagger	swagger
+module	module
+github	github
+coroutine	coroutine
+协程	xie cheng
+google.com	goo
+baidu.com	baidu
+btc	btc
+eth	eth
+nft	nft
+difi	difi
+luna	luna
+opensea	opensea
+
+
+
 # ********************************* Obsidian *********************************
 srcard	sc
 jupyter	ju
@@ -65,37 +97,15 @@ music-abc	mab
 
 
 # ********************************* 开发 *********************************
+learn test and tools	ltt
 
-
-# ********************************* IT *********************************
-pip	pip
-npm	npm
-nvm	nvm
-sdk	sdk
-redis	redis
-docker	docker
-mongo	mongo
-mongodb	mongodb
-mysql	mysql
-web	web
-Jetbrains	jetbrains
-param	param
-request	request
-response	response
-swagger	swagger
-module	module
-github	github
-coroutine	coroutine
-协程	xie cheng
-google.com	goo
-baidu.com	baidu
-btc	btc
-eth	eth
-nft	nft
-difi	difi
-luna	luna
-opensea	opensea
-
+*********************************	fgx
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>	fgr
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<	fgl
+request --->:	requ
+response code <---:	resp
+send    --->:	sen
+receive <---:	rec
 
 # ********************************* python *********************************
 if	if
@@ -109,7 +119,7 @@ if __name__ == "__main__":	ifname
 fun main(){}	ktm
 
 
-# ********************************* 符号 *********************************
+# ********************************* 标点符号 *********************************
 。	juhc
 ，	dzhc
 、	dyhc
@@ -164,4 +174,3 @@ note: 	note
 task: 	task
 
 git commit -m "update custom phrase"	gmu
-learn test and tools	ltt
