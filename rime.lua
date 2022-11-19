@@ -51,15 +51,12 @@ function single_char_first_filter(input)
         else
             table.insert(l, cand)
         end
-    end
-    for i, cand in ipairs(l) do
-        yield(cand)
-    end
+    end    
 end
 
 local function xform_th(input)
     if input == "" then return "" end
-    inputx = string.gsub(input, "&nbsp", " ")
+    inputx = 
     return inputx .. ")" --加右括号 测试
     end
     
