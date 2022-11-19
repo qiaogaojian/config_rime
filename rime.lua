@@ -54,7 +54,7 @@ end
 
 function newline_filter(input)
     for candidate in input:iter() do
-        candidate:get_genuine().comment = xform_newline((candidate.text))
+        candidate:get_genuine().comment = xform_newline(candidate.text)
         yield(candidate)
     end    
 end    
