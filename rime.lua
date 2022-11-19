@@ -54,7 +54,7 @@ local function newline_filter(input)
         cand:get_genuine().text = xform_th((cand.text))
         yield(cand)
     end    
-    return filter
+        
 
 -- select_character_processor: 以词定字
 -- 详见 `lua/select_character.lua`
