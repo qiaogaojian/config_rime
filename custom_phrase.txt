@@ -34,8 +34,6 @@ response code <---:	resp
 send    --->:	sen
 receive <---:	rec
 
-	crl
-
 
 # ********************************* 常用 *********************************
 srcard	sc
@@ -97,6 +95,37 @@ qiaogaojian	qgj
 qiaogaojian@vip.qq.com	qgjv
 
 
+# ********************************* IT *********************************
+pip	pip
+npm	npm
+nvm	nvm
+sdk	sdk
+redis	redis
+docker	docker
+mongo	mongo
+mongodb	mongodb
+mysql	mysql
+web	web
+Jetbrains	jetbrains
+param	param
+request	request
+response	response
+swagger	swagger
+module	module
+github	github
+coroutine	coroutine
+协程	xie cheng
+
+
+# ********************************* Web3 *********************************
+btc	btc
+eth	eth
+nft	nft
+difi	difi
+luna	luna
+opensea	opensea
+
+
 # ********************************* python *********************************
 if	if
 def	def
@@ -149,34 +178,4 @@ ls	ls
 cd	cd
 rm	rm
 
-
-# ********************************* IT *********************************
-pip	pip
-npm	npm
-nvm	nvm
-sdk	sdk
-redis	redis
-docker	docker
-mongo	mongo
-mongodb	mongodb
-mysql	mysql
-web	web
-Jetbrains	jetbrains
-param	param
-request	request
-response	response
-swagger	swagger
-module	module
-github	github
-coroutine	coroutine
-协程	xie cheng
-
-
-# ********************************* Web3 *********************************
-btc	btc
-eth	eth
-nft	nft
-difi	difi
-luna	luna
-opensea	opensea
 
