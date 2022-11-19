@@ -46,11 +46,7 @@ end
 function single_char_first_filter(input)
     local l = {}
     for cand in input:iter() do
-        if (utf8.len(cand.text) == 1) then
-            yield(cand)
-        else
-            table.insert(l, cand)
-        end
+        yield(cand)                
     end    
 end
 
