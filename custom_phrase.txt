@@ -24,7 +24,6 @@ qiaogaojian	qgj
 qiaogaojian@vip.qq.com	qgjv
 
 
-
 # ********************************* IT *********************************
 pip	pip
 npm	npm
@@ -53,7 +52,6 @@ nft	nft
 difi	difi
 luna	luna
 opensea	opensea
-
 
 
 # ********************************* Obsidian *********************************
