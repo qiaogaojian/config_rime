@@ -171,3 +171,4 @@ git commit -m "update custom phrase"	gmu
 ⌥	opt
 ⌥	option
 ⇧	shift
+	cr
