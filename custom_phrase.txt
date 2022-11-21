@@ -115,7 +115,7 @@ if __name__ == "__main__":	ifname
 
 
 # ********************************* kotlin *********************************
-fun main(){}	ktm
+fun main(){}	ktm
 
 
 # ********************************* linux *********************************
@@ -173,4 +173,4 @@ git commit -m "update custom phrase"	gmu
 ⌥	opt
 ⌥	option
 ⇧	shift
-	cr
+	cr
