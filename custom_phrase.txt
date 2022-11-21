@@ -64,6 +64,7 @@ nft	nft
 difi	difi
 luna	luna
 opensea	opensea
+java	java
 
 
 # ********************************* Obsidian *********************************
