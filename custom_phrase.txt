@@ -23,8 +23,8 @@
 qiaogaojian	qgj
 qiaogaojian@vip.qq.com	qgjv
 
-微信 wwxb
-
+微信	wwxb
+帧率	zflv
 
 # ********************************* IT *********************************
 learn test and tools	ltt
@@ -121,10 +121,37 @@ fun main(){
 }	ktm
 
 
+# ********************************* Android *********************************
+gradlew projects	grpr # 列出所有模块
+gradlew tasks	grta # 列出所有task
+gradlew dependencies	grde # 列出所有依赖
+gradlew build --info --stacktrace	grbu # 打包 包括所有的渠道
+gradlew assembleDebug --info --stacktrace	grad # 打Debug包
+gradlew assembleOthersDebug --info --stacktrace	graod # 打Others渠道Debug包
+gradlew installDebug --info --stacktrace	grid # 安装Debug包
+gradlew uninstallDebug	grud # 卸载Debug包
+gradlew assembleRelease --info --stacktrace	grar # 打包Release包
+gradlew installRelease --info --stacktrace	grir # 安装Release包
+gradlew uninstallRelease	grur # 卸载Release包
+
+aapt dump badging 	aapt # 查看apk对应包名
+adb shell pm list packages -f	adbpkg # 查看手记所有应用位置和包名
+adb kill-server	adbki # 关闭adb服务
+adb start-server	adbst # 启动adb服务
+adb tcpip 5556	adbtc # 开启手机5556接口
+adb connect 192.168.1.x:5556	adbco # 连接手机5556接口用于adb调试
+adb shell setprop debug.oculus.noIpdNotifier 1	adbocn # 取消眼距提示
+adb shell setprop debug.oculus.fullRateCapture 1	adbocf # 开启全帧率
+
+
+# ********************************* win10 *********************************
+shutdown -s -t 3600	sdh # 一小时后关机
+shutdown -a	sdc # 取消自动关机
+
 # ********************************* linux *********************************
-ls	ls
-cd	cd
-rm	rm
+ls -la	ls # 列出目录下文件
+cd	cd # 进入目录
+rm	rm # 删除
 
 
 # ********************************* git *********************************
