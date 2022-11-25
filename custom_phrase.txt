@@ -106,6 +106,7 @@ pre-powershell	pps
 |inline|700	inr
 
 music-abc	mab
+matlab	mab # 测试
 
 
 # ********************************* python *********************************
