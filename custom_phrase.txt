@@ -122,6 +122,7 @@ fun main(){
 
 
 # ********************************* Android *********************************
+gradlew clean	grcl # 删除项目缓存
 gradlew projects	grpr # 列出所有模块
 gradlew tasks	grta # 列出所有task
 gradlew dependencies	grde # 列出所有依赖
@@ -142,7 +143,8 @@ adb tcpip 5556	adbtc # 开启手机5556接口
 adb connect 192.168.1.x:5556	adbco # 连接手机5556接口用于adb调试
 adb shell setprop debug.oculus.noIpdNotifier 1	adbocn # 取消眼距提示
 adb shell setprop debug.oculus.fullRateCapture 1	adbocf # 开启全帧率
-
+adb shell wm size	adbsi # 获取手机分辨率
+adb shell wm density	adbde # 获取手机dpi
 
 # ********************************* win10 *********************************
 shutdown -s -t 3600	sdh # 一小时后关机
