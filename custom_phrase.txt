@@ -143,7 +143,6 @@ gradlew assembleRelease --info --stacktrace	grar # 打包Release包
 gradlew installRelease --info --stacktrace	grir # 安装Release包
 gradlew uninstallRelease	grur # 卸载Release包
 
-aapt dump badging 	aapt # 查看apk对应包名  aapt dump badging d:\test.apk
 adb shell pm list packages -f	adbpkg # 查看手记所有应用位置和包名
 adb kill-server	adbki # 关闭adb服务
 adb start-server	adbst # 启动adb服务
@@ -155,6 +154,7 @@ adb shell wm size	adbsi # 获取手机分辨率
 adb shell wm density	adbde # 获取手机dpi
 adb install 	adbin # 安装 apk 安装包
 adb uninstall 	adbun # 卸载应用, 格式 adb uninstall 软件包名
+aapt dump badging 	apkname # 查看apk对应包名  aapt dump badging d:\test.apk
 
 
 # ********************************* win10 *********************************
