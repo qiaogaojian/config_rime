@@ -143,6 +143,7 @@ gradlew assembleRelease --info --stacktrace	grar # 打包Release包
 gradlew installRelease --info --stacktrace	grir # 安装Release包
 gradlew uninstallRelease	grur # 卸载Release包
 
+adb devices	adbde # 获取adb当前设备
 adb logcat	adblog # 查看手机实时日志
 adb shell pm list packages -3 -f	adbpkg # 查看手记第三方(-3)应用位置和包名
 adb kill-server	adbki # 关闭adb服务
@@ -152,7 +153,7 @@ adb connect 192.168.1.x:5556	adbco # 连接手机5556接口用于adb调试
 adb disconnect 192.168.1.x	adbdi # 连接手机tcp连接
 adb shell ifconfig wlan0	adbip # 查看手机内网 ip 地址
 adb shell wm size	adbsi # 获取手机分辨率
-adb shell wm density	adbde # 获取手机dpi
+adb shell wm density	adbdpi # 获取手机dpi
 adb shell getprop ro.build.version.release	adbve # 查看安卓系统版本
 adb shell setprop debug.oculus.noIpdNotifier 1	adbocn # 取消眼距提示
 adb shell setprop debug.oculus.fullRateCapture 1	adbocf # 开启全帧率
