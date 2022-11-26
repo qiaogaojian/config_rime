@@ -108,8 +108,9 @@ pre-powershell	pps
 music-abc	mab
 
 
-# ********************************* csharp *********************************
+# ********************************* java *********************************
 System.out.println();	sout # 打印到控制台并换行
+public class HelloWorld {public static void main(String[] args) {System.out.println("Hello World!");}}
 
 
 # ********************************* csharp *********************************
@@ -161,7 +162,7 @@ adb install 	adbin # 安装 apk 安装包
 adb uninstall 	adbun # 卸载应用, 格式 adb uninstall 软件包名
 aapt dump badging 	apkname # 查看apk对应包名  aapt dump badging d:\test.apk
 adb shell dumpsys window |findstr mCurrent	adbcu # 查看手机当前打开应用的包名
-
+adb bugreport D:\	adbbug # 查看崩溃日志 如果您连接了多台设备，则必须使用 -s 选项指定设备。adb -s 8XV7N15C31003476
 
 
 # ********************************* win10 *********************************
@@ -224,5 +225,4 @@ git commit -m "update custom phrase"	gcp
 ⌥	opt
 ⌥	option
 ⇧	shift
-
 	cr
