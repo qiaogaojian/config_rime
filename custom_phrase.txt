@@ -149,6 +149,7 @@ adb kill-server	adbki # 关闭adb服务
 adb start-server	adbst # 启动adb服务
 adb tcpip 5556	adbtc # 开启手机5556接口
 adb connect 192.168.1.x:5556	adbco # 连接手机5556接口用于adb调试
+adb disconnect 192.168.1.x	adbdi # 连接手机tcp连接
 adb shell ifconfig wlan0	adbip # 查看手机内网 ip 地址
 adb shell wm size	adbsi # 获取手机分辨率
 adb shell wm density	adbde # 获取手机dpi
