@@ -110,7 +110,7 @@ music-abc	mab
 
 # ********************************* java *********************************
 System.out.println();	sout # 打印到控制台并换行
-public class HelloWorld {public static void main(String[] args) {System.out.println("Hello World!");}}
+public class HelloWorld {    public static void main(String[] args) {        System.out.println("Hello World!");    }}	jam
 
 
 # ********************************* csharp *********************************
