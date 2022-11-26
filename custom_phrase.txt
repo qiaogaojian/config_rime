@@ -225,4 +225,4 @@ git commit -m "update custom phrase"	gcp
 ⌥	opt
 ⌥	option
 ⇧	shift
-	cr
+	cr
