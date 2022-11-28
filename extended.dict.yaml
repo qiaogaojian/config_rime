@@ -42,4 +42,5 @@ import_tables:
   # - dicts/luna_pinyin.shopping
   # - dicts/luna_pinyin.basis
   - dicts/luna_pinyin.sougou
+  - custom
 ...
