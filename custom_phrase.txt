@@ -68,6 +68,7 @@ opensea	opensea
 java	java
 roadmap	roadmap
 implementation	implementation
+plugin	plugin
 
 # ********************************* Obsidian *********************************
 srcard	sc
