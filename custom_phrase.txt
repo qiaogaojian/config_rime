@@ -67,6 +67,7 @@ luna	luna
 opensea	opensea
 java	java
 roadmap	roadmap
+implementation	implementation
 
 # ********************************* Obsidian *********************************
 srcard	sc
