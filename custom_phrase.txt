@@ -69,6 +69,8 @@ java	java
 roadmap	roadmap
 implementation	implementation
 plugin	plugin
+gradlew	gradlew
+
 
 # ********************************* Obsidian *********************************
 srcard	sc
