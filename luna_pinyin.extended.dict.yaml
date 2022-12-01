@@ -18,7 +18,7 @@ version: "2014.09.07"
 sort: by_weight
 use_preset_vocabulary: true
 #全拼词库:下面的是本词库包含的所有词库，请根据需要开启/禁用(前面加#)
-import_tables:
+import_tables: 
   - dicts/lufs_flypy.simp          # 最小拼音词典
   - dicts/lufs_flypy.simp-ext      # 原字表中除单字外部分
   - dicts/lufs_flypy.animal        # 动物
@@ -26,29 +26,29 @@ import_tables:
   - dicts/lufs_flypy.food          # 饮食
   - dicts/lufs_flypy.idiom         # 成语俗语
   - dicts/lufs_flypy.IT            # IT
+  - dicts/lufs_flypy.medical       # 医学
   - dicts/lufs_flypy.net           # 网络流行语
   - dicts/lufs_flypy.renmingdiming # 人名地名
-  # - dicts/lufs_flypy.medical       # 医学
-  # - dicts/lufs_flypy.genshin       # 原神
-  # - dicts/lufs_flypy.minecraft     # Minecraft 词条
-  # - dicts/lufs_flypy.touhou        # 东方 Project
-  
-  # - dicts/luna_pinyin
-  # - dicts/luna_pinyin.extra_hanzi
-  # - dicts/luna_pinyin.sgmain
-  # - dicts/luna_pinyin.sgplus
-  # - dicts/luna_pinyin.chat
-  # - dicts/luna_pinyin.net
-  # - dicts/luna_pinyin.user
-  # - dicts/luna_pinyin.cn_en
-  # - dicts/luna_pinyin.english
-  # - dicts/luna_pinyin.biaoqing
-  # - dicts/luna_pinyin.website
-  # - dicts/luna_pinyin.poetry
-  # - dicts/luna_pinyin.computer
-  # - dicts/luna_pinyin.place
-  # - dicts/luna_pinyin.shopping
-  # - dicts/luna_pinyin.basis
-  # - dicts/luna_pinyin.sougou
-  - custom
+  - dicts/lufs_flypy.genshin       # 原神
+  - dicts/lufs_flypy.minecraft     # Minecraft 词条
+  - dicts/lufs_flypy.touhou        # 东方 Project
+
+  - dicts/luna_pinyin
+  - dicts/luna_pinyin.extra_hanzi
+  - dicts/luna_pinyin.sgmain
+  - dicts/luna_pinyin.sgplus
+  - dicts/luna_pinyin.sgplus2
+  - dicts/luna_pinyin.chat
+  - dicts/luna_pinyin.net
+  - dicts/luna_pinyin.user
+  - dicts/luna_pinyin.cn_en
+  - dicts/luna_pinyin.english
+  - dicts/luna_pinyin.biaoqing
+  - dicts/luna_pinyin.website
+  - dicts/luna_pinyin.poetry
+  - dicts/luna_pinyin.computer
+  - dicts/luna_pinyin.place
+  - dicts/luna_pinyin.shopping
+  - dicts/luna_pinyin.basis
+  - dicts/luna_pinyin.sougou
 ...

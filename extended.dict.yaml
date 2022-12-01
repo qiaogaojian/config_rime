@@ -28,6 +28,7 @@ import_tables:
   # - dicts/luna_pinyin.extra_hanzi
   # - dicts/luna_pinyin.sgmain
   # - dicts/luna_pinyin.sgplus
+  # - dicts/luna_pinyin.sgplus2
   # - dicts/luna_pinyin.chat
   # - dicts/luna_pinyin.net
   # - dicts/luna_pinyin.user
