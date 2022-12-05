@@ -157,6 +157,8 @@ gradlew uninstallRelease	grur # 卸载Release包
 adb devices	adbde # 获取adb当前设备
 adb logcat	adblog # 查看手机实时日志
 adb shell pm list packages -3 -f	adbpkg # 查看手记第三方(-3)应用位置和包名
+adb shell pm path com.xx.xx	adbpa # 查看app安装路径
+adb pull xx	 adbpu # 导出路径文件
 adb kill-server	adbki # 关闭adb服务
 adb start-server	adbst # 启动adb服务
 adb tcpip 5556	adbtc # 开启手机5556接口
