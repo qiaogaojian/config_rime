@@ -180,7 +180,7 @@ adb bugreport D:\	adbbug # 查看崩溃日志 如果您连接了多台设备，�
 # ********************************* win10 *********************************
 shutdown -s -t 3600	sdh # 一小时后关机
 shutdown -a	sdc # 取消自动关机
-
+This PC\Redmi K40\内部存储设备\Android\data\com.wplus.messenger\files\Telegram\Telegram Video	tele # telegrame download
 
 # ********************************* linux *********************************
 ls -la	ls # 列出目录下文件
