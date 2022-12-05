@@ -110,6 +110,8 @@ pre-powershell	pps
 |inline|500	inw
 |inline|600	ine
 |inline|700	inr
+|inline|800	int
+|inline|900	iny
 
 music-abc	mab
 
