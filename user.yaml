@@ -1,5 +1,9 @@
 var:
+<<<<<<< HEAD
   last_build_time: 1670414500
+=======
+  last_build_time: 1670410545
+>>>>>>> e3a3781f9dc026941625ba1579a46096c6ba7c18
   option:
     full_shape: true
   previously_selected_schema: lufs_flypy
