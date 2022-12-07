@@ -178,6 +178,8 @@ aapt dump badging 	apkname # 查看apk对应包名  aapt dump badging d:\test.ap
 adb shell dumpsys window |findstr mCurrent	adbcu # 查看手机当前打开应用的包名
 adb bugreport D:\	adbbug # 查看崩溃日志 如果您连接了多台设备，则必须使用 -s 选项指定设备。adb -s 8XV7N15C31003476
 
+clean assembleOtherRelease clean assembleHuaweiRelease clean assembleDouyinRelease clean assembleKuaishou2Release clean assembleHycpsRelease clean assembleOppoRelease 	buildre
+
 
 # ********************************* win10 *********************************
 shutdown -s -t 3600	sdh # 一小时后关机
