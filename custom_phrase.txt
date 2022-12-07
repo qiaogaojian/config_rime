@@ -71,6 +71,7 @@ roadmap	roadmap
 implementation	implementation
 plugin	plugin
 gradlew	gradlew
+gitignore	gitignore
 
 
 # ********************************* Obsidian *********************************
