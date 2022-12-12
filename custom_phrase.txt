@@ -181,6 +181,7 @@ adb bugreport D:\	adbbug # 查看崩溃日志 如果您连接了多台设备，�
 
 clean assembleOtherRelease clean assembleHuaweiRelease clean assembleDouyinRelease clean assembleKuaishou2Release clean assembleHycpsRelease clean assembleOppoRelease 	buildre # jenkin 打包任务
 
+OkHttpLog	okh # 网络请求log过滤关键词
 
 # ********************************* win10 *********************************
 shutdown -s -t 3600	sdh # 一小时后关机
