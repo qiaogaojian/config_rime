@@ -2,11 +2,11 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561218646
-    default.custom: 1669886313
+    default.custom: 1668602670
     key_bindings: 1561218646
     key_bindings.custom: 0
     lufs_flypy.custom: 0
-    lufs_flypy.schema: 1668853032
+    lufs_flypy.schema: 1668863177
     punctuation: 1561218646
     punctuation.custom: 0
     symbols: 1561218646
