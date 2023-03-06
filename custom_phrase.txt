@@ -115,6 +115,7 @@ pre-powershell	pps
 |inline|900	iny
 
 music-abc	mab
+根据戚安邦所著《项目管理学》, 回答以下问题:	chat
 
 
 # ********************************* java *********************************
@@ -168,7 +169,7 @@ adb tcpip 5556	adbtc # 开启手机5556接口
 adb connect 192.168.1.x:5556	adbco # 连接手机5556接口用于adb调试
 adb disconnect 192.168.1.x	adbdi # 连接手机tcp连接
 adb shell ifconfig wlan0	adbip # 查看手机内网 ip 地址
-adb shell wm size	adbsi # 获取手机分辨率
+adb shell wm size	adbsize # 获取手机分辨率
 adb shell wm density	adbdpi # 获取手机dpi
 adb shell getprop ro.build.version.release	adbve # 查看安卓系统版本
 adb shell setprop debug.oculus.noIpdNotifier 1	adbocn # 取消眼距提示
